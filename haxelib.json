@@ -1,0 +1,11 @@
+{
+  "name": "sweetie",
+  "version": "0.0.1",
+  "url": "https://github.com/wartman/sweetie",
+  "releasenote": "prerelease",
+  "classPath": "src",
+  "contributors": ["wartman"],
+  "dependencies": {},
+  "description": "A little syntax sugar for Haxe.",
+  "license": "MIT"
+}

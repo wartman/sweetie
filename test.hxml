@@ -1,0 +1,9 @@
+-cp src
+-cp test
+
+-lib utest
+
+-main Run
+
+-js dist/test.js
+-cmd node dist/test
