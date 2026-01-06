@@ -4,7 +4,6 @@ import haxe.macro.Context;
 import haxe.macro.Expr;
 
 using haxe.macro.Tools;
-// using kit.Macro;
 
 private typedef Assignment = {
 	final name:String;
